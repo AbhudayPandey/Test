@@ -1,0 +1,8 @@
+{
+    
+        "type": "dentist",
+        "name": "jayant",
+        "availableday": "monday",
+        "availabletime": "5PM"
+       
+    }
